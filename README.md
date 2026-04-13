@@ -68,12 +68,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Output
-
-(Add screenshot of your Streamlit app here)
-
----
-
 ## 🧪 Sample Input
 
 * Tenure: 2
